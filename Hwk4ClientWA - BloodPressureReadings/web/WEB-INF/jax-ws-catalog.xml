@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/D:/NetBeansProjects/Hwk4ServerWA/build/generated-sources/jax-ws/resources/Hwk4ServerWS.wsdl" uri="src/conf/xml-resources/web-services/Hwk4ClientWS/wsdl/Hwk4ServerWS.wsdl"/>
+    <system systemId="file:/D:/NetBeansProjects/Hwk4ServerWA/build/generated-sources/jax-ws/resources/Hwk4ServerWS_schema1.xsd" uri="src/conf/xml-resources/web-services/Hwk4ClientWS/wsdl/Hwk4ServerWS_schema1.xsd"/>
+    <system systemId="http://localhost:8080/Hwk4ServerWA/Hwk4ServerWS?WSDL" uri="wsdl/localhost_8080/Hwk4ServerWA/Hwk4ServerWS.wsdl"/>
+    <system systemId="http://localhost:8080/Hwk4ServerWA/Hwk4ServerWS?xsd=1" uri="wsdl/localhost_8080/Hwk4ServerWA/Hwk4ServerWS.xsd_1.xsd"/>
+</catalog>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="Hwk4ServerWS">
+      <implementation-class>Hwk4ServerPackage.Hwk4ServerWS</implementation-class>
+    </service>
+  </services>
+  <clients/>
+  <jsr109>true</jsr109>
+</jax-ws>
