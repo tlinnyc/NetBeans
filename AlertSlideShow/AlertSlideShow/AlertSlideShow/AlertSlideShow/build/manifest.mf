@@ -1,6 +1,0 @@
-MIDlet-1: SlideShow, , slideshow.SlideShow
-MIDlet-Vendor: Vendor
-MIDlet-Name: AlertSlideShow
-MIDlet-Version: 1.0
-MicroEdition-Configuration: CLDC-1.1
-MicroEdition-Profile: MIDP-2.1
